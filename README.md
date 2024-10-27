@@ -1,6 +1,8 @@
 # IF Software Solutions
 
-Welcome to the official GitHub page of IF Software Solutions! We are a young and dynamic software company specializing in custom software and cloud solutions, designed to help businesses achieve their digital goals.
+Welcome to the official GitHub page of IF Software Solutions! 
+
+We are a young and dynamic software company specializing in custom software and cloud solutions, designed to help businesses achieve their digital goals.
 
 ## About IF Software Solutions
 Founded with a passion for innovation, IF Software Solutions aims to empower businesses through technology. We believe in the power of digital solutions to streamline processes, drive growth, and create a competitive edge for our clients.
@@ -32,7 +34,7 @@ Our core values define everything we do:
 ## Contact Us
 Interested in exploring how IF Software Solutions can benefit your business? Reach out to us!
 
-- **Email**: [info@ifsoftwaresolutions.com](mailto:f.ilica@ifsoftwaresolutions.com)
+- **Email**: [f.ilica@ifsoftwaresolutions.com](mailto:f.ilica@ifsoftwaresolutions.com)
 - **Website**: [ifsoftwaresolutions.com](https://www.ifsoftwaresolutions.com)
 - **LinkedIn**: [LinkedIn IF Software Solutions](https://nl.linkedin.com/company/if-software-solutions)
 
